@@ -1,0 +1,15 @@
+---
+title: "ShrubberyTutorial"
+author: "April Wright"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Something about what your R packages does.
+Maybe say somethings about what data you'll use.
+If you're working with a partner, you can put their name.
