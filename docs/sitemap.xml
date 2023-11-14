@@ -7,6 +7,9 @@
     <loc>/LICENSE-text.html</loc>
   </url>
   <url>
+    <loc>/articles/Notes.html</loc>
+  </url>
+  <url>
     <loc>/articles/ShrubberyTutorial.html</loc>
   </url>
   <url>
@@ -17,6 +20,18 @@
   </url>
   <url>
     <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/calc_den.html</loc>
+  </url>
+  <url>
+    <loc>/reference/calc_mass.html</loc>
+  </url>
+  <url>
+    <loc>/reference/calc_shrub_mass.html</loc>
+  </url>
+  <url>
+    <loc>/reference/calc_vol.html</loc>
   </url>
   <url>
     <loc>/reference/index.html</loc>
